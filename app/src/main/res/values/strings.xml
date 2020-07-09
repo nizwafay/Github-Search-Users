@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Github Search Users</string>
+    <string name="retry_button">Retry</string>
+    <string name="search_hint">Search Github User</string>
+
+    <string name="error_no_data">Tidak ada user dengan nama \"%1$s\". Silahkan melakukan pencarian kembali dengan nama user lainnya.</string>
+    <string name="network_no_connection">Tidak ada koneksi. Silahkan cek kembali koneksi Anda.</string>
+    <string name="network_rate_limit_exceeded">Permintaan ke server terlalu sering. Silahkan coba beberapa saat lagi.</string>
 </resources>
